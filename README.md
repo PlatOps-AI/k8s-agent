@@ -22,7 +22,7 @@ A lightweight Kubernetes agent that provides a REST API interface for executing 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/k8s-agent.git
+git clone https://github.com/PlatOps-AI/k8s-agent.git
 cd k8s-agent
 ```
 
