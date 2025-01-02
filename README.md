@@ -92,15 +92,21 @@ The project uses several tools for code quality:
 ### Running Tests
 
 Run tests using:
+```bash
 poetry run pytest
+```
 
 ## Docker
 
 Build the Docker image:
+```bash
 docker build -t k8s-agent .
+```
 
 Run the container:
+```bash
 docker run -p 3000:3000 k8s-agent
+```
 
 ## License
 
